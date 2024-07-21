@@ -8,7 +8,7 @@ export const Cards = () => {
         {/*Overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl text-white ">
           <p className=" font-bold text-2xl px-2 pt-4 ">
-            Time To!, Eat Piite!!
+            Time To Eat Piite!!
           </p>
           <p className="px-2"> Throught 8/26</p>
           <button className=" border-white bg-white text-black mx-2 absolute bottom-4 ">
