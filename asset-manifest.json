@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/valon-bites/static/css/main.01465466.css",
+    "main.js": "/valon-bites/static/js/main.f58f2b8d.js",
+    "static/media/valons bites.png": "/valon-bites/static/media/valons bites.0718ce90f5fd2eee828c.png",
+    "index.html": "/valon-bites/index.html",
+    "main.01465466.css.map": "/valon-bites/static/css/main.01465466.css.map",
+    "main.f58f2b8d.js.map": "/valon-bites/static/js/main.f58f2b8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01465466.css",
+    "static/js/main.f58f2b8d.js"
+  ]
+}
